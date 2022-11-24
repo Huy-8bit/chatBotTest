@@ -12,3 +12,5 @@ Chatbot_model.h5 - Đây là mô hình đào tạo có chứa thông tin về m�
 
 Chatgui.py - Giao diện GUI của chatbot, để người dùng có thể dễ dàng tương tác với bot.
 
+
+# rasa_test
